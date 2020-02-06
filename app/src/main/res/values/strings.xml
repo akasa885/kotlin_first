@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kotlin_first</string>
+    <string name="logo_cobaan">logo_cobaan</string>
+    <string name="field_username">TODO</string>
+    <string name="username_text">username</string>
+    <string name="pass_text">password</string>
+</resources>
